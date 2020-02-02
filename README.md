@@ -8,7 +8,7 @@ gcc.exe addrfinder.c -o addrfinder32.exe -m32
 ```
 64 bits
 ```
-gcc.exe addrfinder.c -o addrfinder32.exe -m64
+gcc.exe addrfinder.c -o addrfinder64.exe -m64
 ```
 
 # Running
